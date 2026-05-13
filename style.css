@@ -93,9 +93,10 @@ table thead {
 }
 
 
+tbody tr {
+    background-color: #ffff00;
+}
+
 table tr:hover {
     background-color: #ff0f00;
 }
-
-
-tbody tr {}
